@@ -1,9 +1,9 @@
 {
   "pluginId": "neodex.budget",
   "repo": "NDesumeur/neodex-plugin-budget-phone",
-  "version": "1.0.0",
-  "sha256": "ee8a7545841ef8d10b3e582f5f8e4d20ef735049386464e02f6faffb735bbb9c",
-  "approvedAt": "2026-11-17T18:40:02.669Z",
+  "version": "1.0.1",
+  "sha256": "b3e685bc3df852f6d16590513c266eabad0a5bffbcb42218d9215c6b997750aa",
+  "approvedAt": "2026-11-19T23:26:45.035Z",
   "neobase": ">=4.0.0",
-  "signature": "kWQ0fqYz9K0sJBFADRP7GRbfSnKmgqmMNO3lq7/RKx58u2BnsB5G7oUhh5RMuPXzl7t/79l+1Vk6A4enHUYeCg=="
+  "signature": "wR9ReV1KDJlsN5OFw8zERh3IdeLKZtO/3WBYSZIPABaUcSg5cyZmPbolczBBkrptYxeZ/J0h6HFu1MKN5d5nCQ=="
 }
